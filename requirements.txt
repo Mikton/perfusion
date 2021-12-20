@@ -1,0 +1,4 @@
+# This is a manually generated requirements file, likely quite incomplete
+scikit-learn
+pandas
+tqdm
